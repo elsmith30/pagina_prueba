@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(154, 221, 221);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h1{
+    color: black;
+}
+p{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h2 {
+    color: #1a237e;
+    font-family: Arial, sans-serif;
+  }
+
+  .parrafo3 {
+    color: #424242; 
+    font-family: Georgia, serif;
+  }
