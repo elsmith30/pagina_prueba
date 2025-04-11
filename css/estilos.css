@@ -17,3 +17,17 @@ h2 {
     color: #424242; 
     font-family: Georgia, serif;
   }
+h1 {
+  color: #ff6f00; /* Naranja vibrante */
+  font-family: Arial, sans-serif;
+}
+
+.parrafo4 {
+  color: #00897b; /* Verde azulado */
+  font-family: 'Georgia', serif;
+}
+
+.parrafo5 {
+  color: #3949ab; /* Azul violeta */
+  font-family: 'Tahoma', sans-serif;
+}
